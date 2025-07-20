@@ -9,7 +9,7 @@
 
 | Home Page                              | Watch Page                             |
 |----------------------------------------|----------------------------------------|
- ( https://github.com/rajeshlru/My-Youtube/blob/main/WhatsApp%20Image%202025-07-20%20at%2018.13.20_0282fc02.jpg)   |((https://github.com/rajeshlru/My-Youtube/blob/main/WhatsApp%20Image%202025-07-20%20at%2018.19.08_e28ef010.jpg))      |
+  https://github.com/rajeshlru/My-Youtube/blob/main/WhatsApp%20Image%202025-07-20%20at%2018.13.20_0282fc02.jpg   |   https://github.com/rajeshlru/My-Youtube/blob/main/WhatsApp%20Image%202025-07-20%20at%2018.19.08_e28ef010.jpg    |
 
 ---
 
