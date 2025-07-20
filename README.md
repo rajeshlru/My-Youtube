@@ -9,7 +9,7 @@
 
 | Home Page                              | Watch Page                             |
 |----------------------------------------|----------------------------------------|
-https://raw.githubusercontent.com/rajeshlru/My-Youtube/refs/heads/main/WhatsApp%20Image%202025-07-20%20at%2018.13.20_0282fc02.jpg  |  https://raw.githubusercontent.com/rajeshlru/My-Youtube/refs/heads/main/WhatsApp%20Image%202025-07-20%20at%2018.19.08_e28ef010.jpg
+![Home Page](https://raw.githubusercontent.com/rajeshlru/My-Youtube/refs/heads/main/WhatsApp%20Image%202025-07-20%20at%2018.13.20_0282fc02.jpg)  | ![Watch Page](https://raw.githubusercontent.com/rajeshlru/My-Youtube/refs/heads/main/WhatsApp%20Image%202025-07-20%20at%2018.19.08_e28ef010.jpg)
 ---
 
 ## 🚀 Features That Make It Stand Out
