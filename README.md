@@ -5,6 +5,28 @@
 
 ---
 
+
+
+<p align="center">
+  <a href="https://my-youtube.vercel.app/" target="_blank" title="View Live Demo">
+    <img 
+      src="https://raw.githubusercontent.com/rajeshlru/My-Youtube/refs/heads/main/WhatsApp%20Image%202025-07-20%20at%2018.13.20_0282fc02.jpg" 
+      alt="Netflix GPT Live Demo" 
+      width="400"
+      style="border-radius:12px; border: 2px solid #ff0000;" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://my-youtube.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🎬%20Watch%20Live%20Demo-ff0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black" />
+  </a>
+</p>
+
+
+
+
+---
+
 ## 📸 Screenshots
 
 | Home Page                              | Watch Page                             |
